@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1422860046 source:e:\c\algorithms\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1422707138 source:e:\c\algorithms\sort\quick_sort.c
+
+1422775610 source:e:\c\algorithms\sort\util.c
+
+1422781736 source:e:\c\algorithms\sort\bubble_sort.c
+	<time.h>
+
+1422712640 source:e:\c\algorithms\sort\insert_sort.c
+
+1422774039 source:e:\c\algorithms\sort\hsah_sort.c
+
+1422779329 source:e:\c\algorithms\sort\select_sort.c
+
+1422800646 source:e:\c\algorithms\sort\merge_sort.c
+	<malloc.h>
+
+1422861709 source:e:\c\algorithms\sort\heap_sort.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+

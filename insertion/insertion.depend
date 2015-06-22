@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1411377816 source:f:\c\algorithms\insertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1411401730 source:e:\c\algorithms\insertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

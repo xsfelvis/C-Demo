@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1411387107 source:f:\c\algorithms\guibingsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1411401728 source:e:\c\algorithms\guibingsort\main.c
+	<stdio.h>
+	<stdlib.h>
+

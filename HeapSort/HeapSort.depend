@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1411547096 source:f:\c\algorithms\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1422860664 source:e:\c\algorithms\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
